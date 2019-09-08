@@ -1,5 +1,7 @@
 echo "hello shafi"
-
+echo "new feature"
 echo "second commit"
-echo "new project add"
+echo "new motivation class"
+echo "new project addition"
 echo "this is sub project"
+echo "the pointers concept"
