@@ -1,4 +1,4 @@
-echo "hello shafi"
+echo "hello firoz"
 echo "hai shafi"
 echo "hai"
 echo "creat new repo"
