@@ -1,8 +1,6 @@
-echo "hello firoz"
 echo "new culture"
 echo "new friends"
 echo "creat new repo"
 echo "the file changes"
-echo "more iterations"
 echo "new advance"
 echo "new prospect"

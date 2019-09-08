@@ -1,6 +1,5 @@
 echo "hello shafi"
 echo "hai shafi"
-echo "hai"
-echo "create new repo"
+echo "data stracture"
 echo "new program"
 echo "new para added"
