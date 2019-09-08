@@ -1,6 +1,5 @@
 echo "hello shafi"
-
-echo "second commit"
+echo "second commit shafivulla"
 echo "new project add"
 echo "hai eliyas"
 echo "for rebase"
