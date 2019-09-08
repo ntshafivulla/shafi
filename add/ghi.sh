@@ -6,3 +6,8 @@ echo "this new compliment"
 echo "this is new administrator"
 echo "new attachment"
 echo "new entity"
+echo "hello shafivulla"
+echo "create new repo"
+echo "new commit"
+echo "new present"
+
