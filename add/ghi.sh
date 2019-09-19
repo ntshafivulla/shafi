@@ -8,7 +8,6 @@ echo "new attachment"
 echo "new molecule
 echo "hello shafivulla"
 echo "create new repo"
-echo "new commit"
 echo "new present"
 edcho "order"
 echo "next replacement"
