@@ -12,5 +12,6 @@ echo "new commit"
 echo "new present"
 edcho "order"
 echo "next replacement"
+echo "new manage"
 
 
