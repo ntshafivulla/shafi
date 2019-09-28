@@ -1,0 +1,16 @@
+<project name=" project" default="war" basedir="."
+<description> first build fild</description>
+<target name="init">
+<mkdir dir="web"/>
+</target>
+<target name="compile"depends="init">
+<javac srcdir="src" destdir="web"/>
+</target>
+<target name="lib" depends="compile">
+<mkdir="web/lib"/>
+</target>
+<target name="war" depends="lib">
+<"war" basedir="src" destfile="web/lib/project.war" needxmlfile='false'/>
+</target>
+</project>
+
