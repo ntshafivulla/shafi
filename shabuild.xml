@@ -1,16 +1,15 @@
-<project name=" project" default="war" basedir="."
-<description> first build fild</description>
+<project name="shafi" default="package" basedir=".">
 <target name="init">
 <mkdir dir="web"/>
 </target>
-<target name="compile"depends="init">
+<target name="compile" depends="init">
 <javac srcdir="src" destdir="web"/>
 </target>
 <target name="lib" depends="compile">
-<mkdir="web/lib"/>
+<mkdir dir="web/lib"/>
 </target>
-<target name="war" depends="lib">
-<"war" basedir="src" destfile="web/lib/project.war" needxmlfile='false'/>
+<target name="package" depends="lib">
+<jar basedir="src" destfile="web/lib/shafi.jar"/>
 </target>
 </project>
 
